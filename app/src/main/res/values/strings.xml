@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="bmw">BMW</string>
+    <string name="mercedes">Mercedes</string>
+    <string name="audi">Audi</string>
+    <string name="skoda">Skoda</string>
+    <string name="porche">Porche</string>
+    <string name="rangerover">RangeRover</string>
+    <string name="jaguar">Jaguar</string>
+    <string name="rollsroyce">RollsRoyce</string>
+    <string name="lembo">Lemborghini</string>
+</resources>
